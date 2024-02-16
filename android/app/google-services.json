@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42709182555",
+    "project_id": "tom-flutterfire-tutorial",
+    "storage_bucket": "tom-flutterfire-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42709182555:android:65699b716aa1f21be3b77e",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5jKFI-9dzx5ELltv-8F22fHeW7Ck4FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
